@@ -1,0 +1,4 @@
+将dd_jahjg.sql导入到mysql
+修改common/conn.php里的链接配置
+管理员用户名密码都是admin
+密码采用MD5加密

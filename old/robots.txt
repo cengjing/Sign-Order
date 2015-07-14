@@ -1,0 +1,15 @@
+# robots.txt generated at http://tool.chinaz.com/robots/ 
+User-agent: *
+Disallow: /
+Crawl-delay: 60
+Disallow: /admin/
+Disallow: /common/
+Disallow: /control/
+Disallow: /360safe/
+Disallow: /css/
+Disallow: /image/
+Disallow: /info/
+Disallow: /mail/
+Disallow: /install/
+Disallow: /user/
+Disallow: /ErrorPages/
